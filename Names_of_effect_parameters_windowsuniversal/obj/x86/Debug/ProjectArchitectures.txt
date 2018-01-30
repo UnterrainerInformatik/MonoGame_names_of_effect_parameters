@@ -1,0 +1,1 @@
+C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\Names_of_effect_parameters_windowsuniversal.csproj;x86

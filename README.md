@@ -2,6 +2,8 @@
 
 This is a demo-solution that shows that the names of the parameters derived from a shader-file (.fx) is different for `windowsDX` and `openGL` in MonoGame.
 
+Look at how the names of the parameters 4 and 5 (both TextureSamplers) are different in OpenGL than in all other projects.
+
 ## Output OpenGL
 
 ![Icon](https://github.com/UnterrainerInformatik/MonoGame_names_of_effect_parameters/raw/master/output_opengl.png)
@@ -10,9 +12,13 @@ This is a demo-solution that shows that the names of the parameters derived from
 
 ![Icon](https://github.com/UnterrainerInformatik/MonoGame_names_of_effect_parameters/raw/master/output_windows.png)
 
+## Output WindowsUniversal
+
+![Icon](https://github.com/UnterrainerInformatik/MonoGame_names_of_effect_parameters/raw/master/output_universal.png)
+
 ### Versions
 
-MonoGame 3.7.0.960
+MonoGame 3.7.0.960  
 Visual Studio 2017
 
 No embedded shaders. Shader is built using the installed build-pipeline.

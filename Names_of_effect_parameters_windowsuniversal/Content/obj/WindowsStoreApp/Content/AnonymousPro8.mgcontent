@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Source/Names_of_effect_parameters/Names_of_effect_parameters_windowsuniversal/Content/AnonymousPro8.spritefont</SourceFile>
+  <SourceTime>2018-01-30T22:40:55.4580619+01:00</SourceTime>
+  <DestFile>C:/Source/Names_of_effect_parameters/Names_of_effect_parameters_windowsuniversal/Content/bin/WindowsStoreApp/Content/AnonymousPro8.xnb</DestFile>
+  <DestTime>2018-01-30T22:41:18.0393094+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-09-29T22:37:44+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-09-29T22:37:44+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

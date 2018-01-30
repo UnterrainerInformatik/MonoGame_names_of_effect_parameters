@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>WindowsStoreApp</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Source/Names_of_effect_parameters/Names_of_effect_parameters_windowsuniversal/Content/AnonymousPro8.spritefont</File>
+    <File>C:/Source/Names_of_effect_parameters/Names_of_effect_parameters_windowsuniversal/Content/BloomCombine.fx</File>
+  </SourceFiles>
+</SourceFileCollection>
