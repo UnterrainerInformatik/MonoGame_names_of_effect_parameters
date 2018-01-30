@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\bin\WindowsUniversal\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-30T21:41:21.205</Modified>
+      <Modified>2018-01-30T21:54:07.666</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\bin\WindowsUniversal\x86\Debug\Names_of_effect_parameters_windowsuniversal.exe">
       <PackagePath>entrypoint\Names_of_effect_parameters_windowsuniversal.exe</PackagePath>
-      <Modified>2018-01-30T21:41:20.359</Modified>
+      <Modified>2018-01-30T21:54:05.341</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\G\.nuget\packages\microsoft.csharp\4.0.1\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -497,31 +497,31 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsUniversal\MonoGame.Framework.dll">
       <PackagePath>MonoGame.Framework.dll</PackagePath>
-      <Modified>2017-09-29T20:38:18.000</Modified>
+      <Modified>2018-01-21T00:00:12.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsUniversal\SharpDX.DXGI.dll">
       <PackagePath>SharpDX.DXGI.dll</PackagePath>
-      <Modified>2017-09-29T20:37:34.000</Modified>
+      <Modified>2018-01-20T23:59:28.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsUniversal\SharpDX.dll">
       <PackagePath>SharpDX.dll</PackagePath>
-      <Modified>2017-09-29T20:37:34.000</Modified>
+      <Modified>2018-01-20T23:59:28.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsUniversal\SharpDX.Direct3D11.dll">
       <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
-      <Modified>2017-09-29T20:37:34.000</Modified>
+      <Modified>2018-01-20T23:59:28.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsUniversal\SharpDX.MediaFoundation.dll">
       <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
-      <Modified>2017-09-29T20:37:34.000</Modified>
+      <Modified>2018-01-20T23:59:28.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsUniversal\SharpDX.Direct2D1.dll">
       <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
-      <Modified>2017-09-29T20:37:34.000</Modified>
+      <Modified>2018-01-20T23:59:28.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsUniversal\SharpDX.XAudio2.dll">
       <PackagePath>SharpDX.XAudio2.dll</PackagePath>
-      <Modified>2017-09-29T20:37:34.000</Modified>
+      <Modified>2018-01-20T23:59:28.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\Content\BloomCombine.fx">
       <PackagePath>Content\BloomCombine.fx</PackagePath>
@@ -563,15 +563,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\Content\bin\WindowsStoreApp\Content\AnonymousPro8.xnb">
       <PackagePath>Content\AnonymousPro8.xnb</PackagePath>
-      <Modified>2018-01-30T21:41:18.039</Modified>
+      <Modified>2018-01-30T21:54:02.565</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\Content\bin\WindowsStoreApp\Content\BloomCombine.xnb">
       <PackagePath>Content\BloomCombine.xnb</PackagePath>
-      <Modified>2018-01-30T21:41:18.464</Modified>
+      <Modified>2018-01-30T21:54:02.966</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\bin\WindowsUniversal\x86\Debug\Names_of_effect_parameters_windowsuniversal.xr.xml">
       <PackagePath>Names_of_effect_parameters_windowsuniversal.xr.xml</PackagePath>
-      <Modified>2018-01-30T21:37:21.468</Modified>
+      <Modified>2018-01-30T21:54:05.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.16299.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -580,11 +580,11 @@
     <AppxPackagedFile Include="C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\bin\WindowsUniversal\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-01-30T21:41:20.907</Modified>
+      <Modified>2018-01-30T21:54:07.237</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\bin\WindowsUniversal\x86\Debug\Core\Names_of_effect_parameters_windowsuniversal.exe">
       <PackagePath>Names_of_effect_parameters_windowsuniversal.exe</PackagePath>
-      <Modified>2018-01-30T21:41:21.198</Modified>
+      <Modified>2018-01-30T21:54:07.656</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

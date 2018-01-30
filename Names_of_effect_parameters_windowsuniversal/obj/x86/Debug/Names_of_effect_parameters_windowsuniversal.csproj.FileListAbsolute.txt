@@ -1,3 +1,5 @@
+C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\bin\WindowsUniversal\x86\Debug\Content\AnonymousPro8.xnb
+C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\bin\WindowsUniversal\x86\Debug\Content\BloomCombine.xnb
 C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\bin\WindowsUniversal\x86\Debug\App.xbf
 C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\bin\WindowsUniversal\x86\Debug\GamePage.xbf
 C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\bin\WindowsUniversal\x86\Debug\Names_of_effect_parameters_windowsuniversal.xr.xml
@@ -226,5 +228,3 @@ C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal
 C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\obj\x86\Debug\qualifiers.txt.intermediate
 C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\obj\x86\Debug\ProjectArchitectures.txt
-C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\bin\WindowsUniversal\x86\Debug\Content\AnonymousPro8.xnb
-C:\Source\Names_of_effect_parameters\Names_of_effect_parameters_windowsuniversal\bin\WindowsUniversal\x86\Debug\Content\BloomCombine.xnb

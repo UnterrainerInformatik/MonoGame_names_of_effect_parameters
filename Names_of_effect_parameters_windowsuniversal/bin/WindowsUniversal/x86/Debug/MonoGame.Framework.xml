@@ -11399,6 +11399,13 @@
             <param name="instanceCount">The number of instances to render.</param>
             <remarks>Draw geometry with data from multiple bound vertex streams at different frequencies.</remarks>
         </member>
+        <member name="M:Microsoft.Xna.Framework.Graphics.GraphicsDevice.GetBackBufferData``1(``0[])">
+            <summary>
+            Gets the Pixel data of what is currently drawn on screen.
+            The format is whatever the current format of the backbuffer is.
+            </summary>
+            <typeparam name="T">A byte[] of size (ViewPort.Width * ViewPort.Height * 4)</typeparam>
+        </member>
         <member name="P:Microsoft.Xna.Framework.Graphics.GraphicsDevice.Handle">
             <summary>
             Returns a handle to internal device object. Valid only on DirectX platforms.
@@ -13722,6 +13729,16 @@
             <param name="mipmap"></param>
             <param name="format"></param>
             <param name="type"></param>
+        </member>
+        <member name="P:Microsoft.Xna.Framework.Graphics.Texture2D.Width">
+            <summary>
+            Gets the width of the texture in pixels.
+            </summary>
+        </member>
+        <member name="P:Microsoft.Xna.Framework.Graphics.Texture2D.Height">
+            <summary>
+            Gets the height of the texture in pixels.
+            </summary>
         </member>
         <member name="M:Microsoft.Xna.Framework.Graphics.Texture2D.SetData``1(System.Int32,System.Int32,System.Nullable{Microsoft.Xna.Framework.Rectangle},``0[],System.Int32,System.Int32)">
             <summary>

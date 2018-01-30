@@ -3,11 +3,11 @@
   <SourceFile>C:/Source/Names_of_effect_parameters/Names_of_effect_parameters/Content/BloomCombine.fx</SourceFile>
   <SourceTime>2018-01-10T22:21:17.4865323+01:00</SourceTime>
   <DestFile>C:/Source/Names_of_effect_parameters/Names_of_effect_parameters/Content/bin/DesktopGL/Content/BloomCombine.xnb</DestFile>
-  <DestTime>2018-01-30T22:10:02.6791541+01:00</DestTime>
+  <DestTime>2018-01-30T22:53:22.2128857+01:00</DestTime>
   <Importer>EffectImporter</Importer>
-  <ImporterTime>2017-09-29T22:37:44+02:00</ImporterTime>
+  <ImporterTime>2018-01-21T00:59:38+01:00</ImporterTime>
   <Processor>EffectProcessor</Processor>
-  <ProcessorTime>2017-09-29T22:37:44+02:00</ProcessorTime>
+  <ProcessorTime>2018-01-21T00:59:38+01:00</ProcessorTime>
   <Parameters>
     <Key>DebugMode</Key>
     <Value>Auto</Value>

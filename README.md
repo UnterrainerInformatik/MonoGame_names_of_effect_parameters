@@ -18,10 +18,17 @@ Look at how the names of the parameters 4 and 5 (both TextureSamplers) are diffe
 
 ### Versions
 
+MonoGame 3.7.0.1232  
 MonoGame 3.7.0.960  
+MonoGame 3.6.0.1598  
+(locally installed it, deleted bin+obj and Content/bin+obj, rebuilt -> same result)
+
 Visual Studio 2017
 
-No embedded shaders. Shader is built using the installed build-pipeline.
+No embedded shaders. Shader is built using the locally installed build-pipeline.  
+No nuget packages.
+
+By the way: It's sooo nice to have the currently installed MG version in the about-box of the pipeline-application :)
 
 ## The shader
 
