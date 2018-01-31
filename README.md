@@ -25,6 +25,9 @@ MonoGame 3.6.0.1598
 
 Visual Studio 2017
 
+OpenGL shader ps_2_0 and ps_3_0
+DirectX shader ps_4_0_level_9_1 and ps_4_0_level_9_3
+
 No embedded shaders. Shader is built using the locally installed build-pipeline.  
 No nuget packages.
 
